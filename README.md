@@ -1,5 +1,6 @@
 # Business-Intelligence-Hub
 Turn raw data into business intelligence — right in your browser.
+https://bi-ai-hub.lovable.app/
 
 Business Intelligence Hub is a self-service analytics web app for business owners and analysts. Upload one or many data files and instantly get exploratory data analysis, an automatically detected data model, interactive KPI dashboards, nine types of business analysis, AI-written findings, forecasts and machine-learning segments, a formatted PDF report, and a place to embed your published Power BI and Tableau reports.
 
